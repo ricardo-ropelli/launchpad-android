@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+<TableLayout
+    android:id="@+id/tableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+    
+    <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/A1" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/B1" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/C1" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/D1"></ImageButton>
+
+    </TableRow>
+    
+    <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/A2" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/B2" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/C2" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/D2"></ImageButton>
+
+    </TableRow>
+    
+    <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/A3" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/B3" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/C3" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/D3"></ImageButton>
+
+    </TableRow>
+    
+    <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/A4" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/B4" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/C4" ></ImageButton>
+        <ImageButton android:src="@drawable/gravar" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/D4"></ImageButton>
+
+    </TableRow>    
+</TableLayout>
+</LinearLayout>

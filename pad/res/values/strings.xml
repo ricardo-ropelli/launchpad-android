@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">LaunchPad</string>
+    <string name="audio_loop">Loop</string>
+    <string name="app_info">Launchpad is a music controller that enables you to make music or mix tracks by other artists. You do not need advanced musical knowledge, just your own creativity.</string>
+    <string name="principal">LauchPad.</string>
+</resources>
